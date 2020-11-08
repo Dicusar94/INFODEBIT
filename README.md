@@ -22,7 +22,7 @@
 
 ### Utilizatorii paginilor web :
 
-1. **Web Client / Organization** - Organizatiile ce au semnat contract de prestare servicii cu compania infodebit. Acest tip de client declara lista utilizatorilor (identificarea dupa IDNP) autorizati carora trebuie sa le oferim acces la sistem.
+1. **[Web Client / Organization](/ref_doc/WebClientOrg.md)** - Organizatiile ce au semnat contract de prestare servicii cu compania infodebit. Acest tip de client declara lista utilizatorilor (identificarea dupa IDNP) autorizati carora trebuie sa le oferim acces la sistem.
 Dupa acordarea accesului, utilizatorii utilizeaza semnatura electronica sau mobila pentru autentificarea in sistemul infodebit.
 2. **Web Client / Individuals** - Reprezinta persoanele fizice ce doresc sa se logheze in cabinetul personal in baza semnaturii mobile sau electronice, pentru verificarea raportului personal.
 3. **Web Client / Managers** - Reprezinta angajatii Infodebit, ce utilizeaza panoul administrativ (vizionarea rapoarte, oferirea accesului, crearea utilizatorilor, etc.)
