@@ -1,4 +1,6 @@
-# Pagina utilizatorilor "Client Organization"
+# Cabinetul utilizatorilor "Client Organization"
+
+**[GO BACK TO HOMEPAGE](../README.md)**
 
 Clientii (Organizatiile) - utilizeaza autentificarea securizata a platformei [MPASS](https://mpass.gov.md/), care la rindul sau se logheaza cu [semnatura-mobila][1] sau cu [semnatura electronica][2].
 
