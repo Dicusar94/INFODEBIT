@@ -8,8 +8,8 @@
 
 - Clientii (Individuals) - utilizeaza autentificarea securizata a platformei [MPASS](https://mpass.gov.md/), care la rindul sau se logheaza cu [semnatura-mobila][1] sau cu [semnatura electronica][2].
 
-- Autentificarea prin intermediul platformei MPASS este utilizata pentru autentificarea la distanta a persoanei.
-- La prima logare cu semnatura electronica sau mobila utilizatorului i se va propune indeplinirea anchetei pentru crearea contului. Posibilitatea de crearea a contului se acorda clientului pentru scutirea utilizatorului de costuri aditionale la logaile cu semnatura electronica.
+- Autentificarea prin intermediul platformei MPASS este utilizata pentru identificarea persoanei la distanta.
+- La prima logare cu semnatura electronica sau mobila utilizatorului i se va propune indeplinirea anchetei pentru crearea contului. Posibilitatea de crearea a contului se acorda clientului pentru scutirea utilizatorului de costuri aditionale la logarile cu semnatura electronica.
 - Dupa crearea contului clientul are posibilitate de logare atit prin semntaura electronica sau mobila, cit si cu utilizarea credentialelor personale.
 
 
