@@ -39,7 +39,7 @@ Dupa acordarea accesului, utilizatorii utilizeaza semnatura electronica sau mobi
 
 <br/>
 
-2. **[Web Client / Individuals](/ref_doc\WebClientIndividuals.md)** - Reprezinta persoanele fizice ce doresc sa se logheze in cabinetul personal in baza semnaturii mobile sau electronice, pentru verificarea raportului personal.
+1. **[Web Client / Individuals](/ref_doc/WebClientIndividuals.md)** - Reprezinta persoanele fizice ce doresc sa se logheze in cabinetul personal in baza semnaturii mobile sau electronice, pentru verificarea raportului personal.
 
 <br/>
 
